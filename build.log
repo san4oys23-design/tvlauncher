@@ -1,0 +1,115 @@
+WARNING: linker: library "/storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/native/c067742578af261105cb4f569cf0c3c89f3d7b1fecec35dd04571415982c5e48/linux-aarch64/libnative-platform.so" ("/storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/native/c067742578af261105cb4f569cf0c3c89f3d7b1fecec35dd04571415982c5e48/linux-aarch64/libnative-platform.so") needed or dlopened by "/data/data/com.androidharness.app/files/linux/lib/jvm/java-21-openjdk/lib/server/libjvm.so" is not accessible for the namespace: [name="(default)", ld_library_paths="/data/data/com.androidharness.app/files/linux/lib/jvm/java-21-openjdk/lib/server:/data/data/com.androidharness.app/files/linux/lib/jvm/java-21-openjdk/lib:/data/data/com.androidharness.app/files/linux/lib", default_library_paths="/system/lib64:/system_ext/lib64", permitted_paths="/system/lib64/drm:/system/lib64/extractors:/system/lib64/hw:/system_ext/lib64:/system/framework:/system/app:/system/priv-app:/system_ext/framework:/system_ext/app:/system_ext/priv-app:/vendor/framework:/vendor/app:/vendor/priv-app:/system/vendor/framework:/system/vendor/app:/system/vendor/priv-app:/odm/framework:/odm/app:/odm/priv-app:/oem/app:/product/framework:/product/app:/product/priv-app:/data:/mnt/expand:/apex/com.android.runtime/lib64/bionic:/system/lib64/bootstrap"]
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/8.4/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Daemon will be stopped at the end of the build 
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:mergeLibDexDebug UP-TO-DATE
+> Task :app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:mergeDebugNativeLibs NO-SOURCE
+> Task :app:stripDebugDebugSymbols NO-SOURCE
+> Task :app:validateSigningDebug UP-TO-DATE
+> Task :app:writeDebugAppMetadata UP-TO-DATE
+> Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+> Task :app:processDebugManifestForPackage
+> Task :app:processDebugResources FAILED
+> Task :app:mergeExtDexDebug
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:processDebugResources'.
+> Could not resolve all files for configuration ':app:debugRuntimeClasspath'.
+   > Failed to transform leanback-1.0.0.aar (androidx.leanback:leanback:1.0.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/e324e81b41dd0ea0014275ceefab6389/transformed/leanback-1.0.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #1: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+   > Failed to transform core-1.12.0.aar (androidx.core:core:1.12.0) to match attributes {artifactType=android-compiled-dependencies-resources, org.gradle.status=release}.
+      > Execution failed for AarResourcesCompilerTransform: /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0.
+         > AAPT2 aapt2-8.2.0-10154469-linux Daemon #0: Daemon startup failed
+           This should not happen under normal circumstances, please file an issue if it does.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 38s
+25 actionable tasks: 4 executed, 21 up-to-date

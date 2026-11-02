@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.tvlauncher.app-merged_res-64:/drawable_ic_launcher.xml.flat",
+        "source": "com.tvlauncher.app-main-66:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.tvlauncher.app-merged_res-64:/xml_data_extraction_rules.xml.flat",
+        "source": "com.tvlauncher.app-main-66:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.tvlauncher.app-merged_res-64:/drawable_banner.xml.flat",
+        "source": "com.tvlauncher.app-main-66:/drawable/banner.xml"
+    }
+]

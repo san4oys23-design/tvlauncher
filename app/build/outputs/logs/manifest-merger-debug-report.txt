@@ -1,0 +1,501 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:2:1-54:12
+MERGED from [androidx.leanback:leanback:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/e324e81b41dd0ea0014275ceefab6389/transformed/leanback-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5c3ad28cdd09f7a76373b862a6370bcc/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0930f99f2cdc2938242d1623b26cf5c6/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/fc49c28dc6354a5ca0685996ddc3eafc/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tv:tv-material:1.0.0-alpha07] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/999051481a9346612eb849a9996f0ed6/transformed/jetified-tv-material-1.0.0-alpha07/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.tv:tv-foundation:1.0.0-alpha07] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d6bff90c96440a3933553ba3f86d20ed/transformed/jetified-tv-foundation-1.0.0-alpha07/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media3:media3-datasource:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c860e50ebd9b751c99ff8cb732e7aa2a/transformed/jetified-media3-datasource-1.0.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-extractor:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/104873220539f10cfd5ddc8f44a5272a/transformed/jetified-media3-extractor-1.0.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-decoder:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/14ced20c2499fb272e5b71dfcb39b7a0/transformed/jetified-media3-decoder-1.0.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-database:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5da441ed5ba221ece69016179546e317/transformed/jetified-media3-database-1.0.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-common:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/703643ea54c46b838973f517a659f645/transformed/jetified-media3-common-1.0.0-beta03/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.media3:media3-exoplayer:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/cd5744abaf1b9faebc6cf42162a6651d/transformed/jetified-media3-exoplayer-1.0.0-beta03/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/f923f085ed606e396f4a597d130ed9e8/transformed/jetified-hilt-navigation-compose-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0bd6680450c5cd85371acaf8f941cc1d/transformed/jetified-hilt-navigation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/2e0a101580c4ce281cbc88c3718012b8/transformed/navigation-common-2.7.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1f1c2120096d8c5b5c504fd734b98cf5/transformed/navigation-runtime-2.7.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/88edbb18c4f24da35270b65e2eef0065/transformed/navigation-common-ktx-2.7.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/3e15a57880006acf0498e1de9c671f1b/transformed/navigation-runtime-ktx-2.7.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/05bbf04da7587e9e8119ee81e9d13b03/transformed/jetified-navigation-compose-2.7.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3:1.1.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d6c8046d9310b299de281fec49bc300c/transformed/jetified-material3-1.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ee8244778d845ae9eb874d6868314341/transformed/jetified-material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/46c044c2a7301447b99ac911bab03964/transformed/jetified-material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/93a5fd132fa108e0662b571eead211d3/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/43c59be23026410d34f088d71dddea38/transformed/jetified-material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ddecd065151d6e5886c574667ce4e81c/transformed/jetified-animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/4c9888ffddf013f5f4369a3fe6860849/transformed/jetified-animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/680d2ad3a0afa41af32b282465e34db4/transformed/jetified-foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/bb1812bae6c1d122cacb23c2f8f8da12/transformed/jetified-foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1829a2460b591d174bbddc0ce69becb6/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5862f4612e75f27f10673137f77ea068/transformed/jetified-ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/185a0b7acaf49b523a3b73cc963b7468/transformed/jetified-ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/3d63d05a3e11a312af0b03e19dee6ad8/transformed/jetified-ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8725c3f48095bb0d9dd19b2b8e7d2535/transformed/jetified-ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1fabce5997dc5b0f2efed6c5d81fcbf6/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8c8f20fad346ebce1ea5040a670e5749/transformed/jetified-ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b5066eff6d8e2479bb83f19818e1b31e/transformed/jetified-ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b48a257bae1f2241ba2113514bc282fe/transformed/jetified-ui-test-manifest-1.5.4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.dagger:hilt-android:2.48] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/7c4ef60813a27d2dd6afaa7d9b6fde52/transformed/jetified-hilt-android-2.48/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.fragment:fragment:1.5.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/212bc63511e5e3f1e688faf86f0aa96b/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/89c4a1c48ef79a3a3baea1cd890cb900/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ba98a0bafc674365efc4b71ed6386dd8/transformed/jetified-activity-ktx-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/abf276fdf0ca15561200b3425e3f91a1/transformed/jetified-activity-compose-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d0710e596ba2d7be4415ddf80ba6af33/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d9cc4f6a4a67fe19343070468f95065e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/214d760938be048d1bf49a70a71b2d94/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/a4aca6b974dce6ea6e6ad3bdc30788de/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/df60e8bc4d05721caae488353dc2ef38/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/3469f94258884c5eebf6d39be8f107dc/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/a9e1e574b2bc77d3d275c5a806987175/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/4a0488e6eaf2467cf72e3103ea9ed263/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/227bce5f26ebfc119e82ebef95abe27d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ddd1c405c10ed318810eb73403dbb337/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/fb7b33ea09f1e4ee9cb6503dc7cf738a/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/28cb1e0a47b00f2668745c28d110b4e8/transformed/jetified-lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d572ac209dc6ed013e958ffe83b628e9/transformed/jetified-lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5943927be3f38cccfa3996a81f43bfe1/transformed/jetified-ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ea9b1a15928cf298769b893095f7cb11/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/80b4f0561c72e6f86d601ef5adddb203/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d5df6b101fff2617f66a17e7c44a87a3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c902bcaeb39dfac858ed92c61a9779ca/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/385578076e2ce662079c6343faaf1ee5/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/aab78f797bfe2779759236c7b9564f61/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/329f9034cb3ad538543e61912405171b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ea4374389b3464a7c1946cef32c6465a/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1d7d68765781ca0a62960b836b23e0cb/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/37bca4bdb89249d56409fa284c50f716/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/7c0e896e7d9b1a26837db6280b7c3e86/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/65534c840f2f1fe4d9a7b23a07ccd1b2/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/2b933ded80519efdba1027fa2b2b3c5a/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/501f6f189060a72cb1165391f9b7788b/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/28d6918987fe41d0fe6e19c041d59469/transformed/jetified-runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/f3be5a47fcd69fef73b647927ca72641/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ce2bce9e03732f412a40b129a90e1dd0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/e504378cfbe8dcdde67e709bf353e318/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/85dbe6b020b0f804ba9077d12e34d952/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5d4e0955f7506f596ac777fe2453121b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b907276f5ad5bd7a704d850c6c7ebbeb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0a72e3d017909a927aa8f581f72be844/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/041e2f8239c472df300aec3af14e8fe2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/533340fd3e060645ab221db3551efd92/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/959292028db5a9c4930d9c30526eea8c/transformed/jetified-dagger-lint-aar-2.48/AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.software.leanback
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:6:9-49
+uses-feature#android.hardware.touchscreen
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:9:9-52
+uses-feature#android.hardware.faketouch
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:12:9-50
+uses-permission#android.permission.INTERNET
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:16:5-79
+MERGED from [androidx.media3:media3-common:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/703643ea54c46b838973f517a659f645/transformed/jetified-media3-common-1.0.0-beta03/AndroidManifest.xml:24:5-79
+MERGED from [androidx.media3:media3-common:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/703643ea54c46b838973f517a659f645/transformed/jetified-media3-common-1.0.0-beta03/AndroidManifest.xml:24:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/cd5744abaf1b9faebc6cf42162a6651d/transformed/jetified-media3-exoplayer-1.0.0-beta03/AndroidManifest.xml:24:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/cd5744abaf1b9faebc6cf42162a6651d/transformed/jetified-media3-exoplayer-1.0.0-beta03/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:17:22-78
+application
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:19:5-53:19
+INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:19:5-53:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8c8f20fad346ebce1ea5040a670e5749/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8c8f20fad346ebce1ea5040a670e5749/transformed/jetified-ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b48a257bae1f2241ba2113514bc282fe/transformed/jetified-ui-test-manifest-1.5.4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b48a257bae1f2241ba2113514bc282fe/transformed/jetified-ui-test-manifest-1.5.4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/214d760938be048d1bf49a70a71b2d94/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/214d760938be048d1bf49a70a71b2d94/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ce2bce9e03732f412a40b129a90e1dd0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ce2bce9e03732f412a40b129a90e1dd0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5d4e0955f7506f596ac777fe2453121b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5d4e0955f7506f596ac777fe2453121b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:23:9-41
+	tools:targetApi
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:27:9-29
+	android:icon
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:21:9-35
+	android:banner
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:26:9-42
+	android:theme
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:25:9-48
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:20:9-38
+activity#com.tvlauncher.app.MainActivity
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:29:9-43:20
+	android:screenOrientation
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:34:13-50
+	android:launchMode
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:31:13-36
+	android:configChanges
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:30:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:36:13-42:29
+action#android.intent.action.MAIN
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.HOME
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:38:17-73
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:38:27-70
+category#android.intent.category.DEFAULT
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:39:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:40:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:41:17-86
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:41:27-83
+receiver#com.tvlauncher.app.BootReceiver
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:45:9-52:20
+	android:enabled
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:48:13-35
+	android:exported
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:46:13-41
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:49:13-51:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:50:17-79
+	android:name
+		ADDED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml:50:25-76
+uses-sdk
+INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml
+INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml
+MERGED from [androidx.leanback:leanback:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/e324e81b41dd0ea0014275ceefab6389/transformed/leanback-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/e324e81b41dd0ea0014275ceefab6389/transformed/leanback-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5c3ad28cdd09f7a76373b862a6370bcc/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5c3ad28cdd09f7a76373b862a6370bcc/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0930f99f2cdc2938242d1623b26cf5c6/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0930f99f2cdc2938242d1623b26cf5c6/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/fc49c28dc6354a5ca0685996ddc3eafc/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/fc49c28dc6354a5ca0685996ddc3eafc/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tv:tv-material:1.0.0-alpha07] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/999051481a9346612eb849a9996f0ed6/transformed/jetified-tv-material-1.0.0-alpha07/AndroidManifest.xml:5:5-44
+MERGED from [androidx.tv:tv-material:1.0.0-alpha07] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/999051481a9346612eb849a9996f0ed6/transformed/jetified-tv-material-1.0.0-alpha07/AndroidManifest.xml:5:5-44
+MERGED from [androidx.tv:tv-foundation:1.0.0-alpha07] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d6bff90c96440a3933553ba3f86d20ed/transformed/jetified-tv-foundation-1.0.0-alpha07/AndroidManifest.xml:5:5-44
+MERGED from [androidx.tv:tv-foundation:1.0.0-alpha07] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d6bff90c96440a3933553ba3f86d20ed/transformed/jetified-tv-foundation-1.0.0-alpha07/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media3:media3-datasource:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c860e50ebd9b751c99ff8cb732e7aa2a/transformed/jetified-media3-datasource-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-datasource:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c860e50ebd9b751c99ff8cb732e7aa2a/transformed/jetified-media3-datasource-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-extractor:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/104873220539f10cfd5ddc8f44a5272a/transformed/jetified-media3-extractor-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-extractor:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/104873220539f10cfd5ddc8f44a5272a/transformed/jetified-media3-extractor-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-decoder:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/14ced20c2499fb272e5b71dfcb39b7a0/transformed/jetified-media3-decoder-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-decoder:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/14ced20c2499fb272e5b71dfcb39b7a0/transformed/jetified-media3-decoder-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-database:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5da441ed5ba221ece69016179546e317/transformed/jetified-media3-database-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-database:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5da441ed5ba221ece69016179546e317/transformed/jetified-media3-database-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-common:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/703643ea54c46b838973f517a659f645/transformed/jetified-media3-common-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-common:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/703643ea54c46b838973f517a659f645/transformed/jetified-media3-common-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-exoplayer:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/cd5744abaf1b9faebc6cf42162a6651d/transformed/jetified-media3-exoplayer-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-exoplayer:1.0.0-beta03] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/cd5744abaf1b9faebc6cf42162a6651d/transformed/jetified-media3-exoplayer-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/f923f085ed606e396f4a597d130ed9e8/transformed/jetified-hilt-navigation-compose-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/f923f085ed606e396f4a597d130ed9e8/transformed/jetified-hilt-navigation-compose-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0bd6680450c5cd85371acaf8f941cc1d/transformed/jetified-hilt-navigation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0bd6680450c5cd85371acaf8f941cc1d/transformed/jetified-hilt-navigation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/2e0a101580c4ce281cbc88c3718012b8/transformed/navigation-common-2.7.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/2e0a101580c4ce281cbc88c3718012b8/transformed/navigation-common-2.7.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1f1c2120096d8c5b5c504fd734b98cf5/transformed/navigation-runtime-2.7.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1f1c2120096d8c5b5c504fd734b98cf5/transformed/navigation-runtime-2.7.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/88edbb18c4f24da35270b65e2eef0065/transformed/navigation-common-ktx-2.7.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/88edbb18c4f24da35270b65e2eef0065/transformed/navigation-common-ktx-2.7.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/3e15a57880006acf0498e1de9c671f1b/transformed/navigation-runtime-ktx-2.7.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/3e15a57880006acf0498e1de9c671f1b/transformed/navigation-runtime-ktx-2.7.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/05bbf04da7587e9e8119ee81e9d13b03/transformed/jetified-navigation-compose-2.7.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.5] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/05bbf04da7587e9e8119ee81e9d13b03/transformed/jetified-navigation-compose-2.7.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d6c8046d9310b299de281fec49bc300c/transformed/jetified-material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d6c8046d9310b299de281fec49bc300c/transformed/jetified-material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ee8244778d845ae9eb874d6868314341/transformed/jetified-material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ee8244778d845ae9eb874d6868314341/transformed/jetified-material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/46c044c2a7301447b99ac911bab03964/transformed/jetified-material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/46c044c2a7301447b99ac911bab03964/transformed/jetified-material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/93a5fd132fa108e0662b571eead211d3/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/93a5fd132fa108e0662b571eead211d3/transformed/jetified-material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/43c59be23026410d34f088d71dddea38/transformed/jetified-material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/43c59be23026410d34f088d71dddea38/transformed/jetified-material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ddecd065151d6e5886c574667ce4e81c/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ddecd065151d6e5886c574667ce4e81c/transformed/jetified-animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/4c9888ffddf013f5f4369a3fe6860849/transformed/jetified-animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/4c9888ffddf013f5f4369a3fe6860849/transformed/jetified-animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/680d2ad3a0afa41af32b282465e34db4/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/680d2ad3a0afa41af32b282465e34db4/transformed/jetified-foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/bb1812bae6c1d122cacb23c2f8f8da12/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/bb1812bae6c1d122cacb23c2f8f8da12/transformed/jetified-foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1829a2460b591d174bbddc0ce69becb6/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1829a2460b591d174bbddc0ce69becb6/transformed/jetified-ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5862f4612e75f27f10673137f77ea068/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5862f4612e75f27f10673137f77ea068/transformed/jetified-ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/185a0b7acaf49b523a3b73cc963b7468/transformed/jetified-ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/185a0b7acaf49b523a3b73cc963b7468/transformed/jetified-ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/3d63d05a3e11a312af0b03e19dee6ad8/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/3d63d05a3e11a312af0b03e19dee6ad8/transformed/jetified-ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8725c3f48095bb0d9dd19b2b8e7d2535/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8725c3f48095bb0d9dd19b2b8e7d2535/transformed/jetified-ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1fabce5997dc5b0f2efed6c5d81fcbf6/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1fabce5997dc5b0f2efed6c5d81fcbf6/transformed/jetified-ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8c8f20fad346ebce1ea5040a670e5749/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8c8f20fad346ebce1ea5040a670e5749/transformed/jetified-ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b5066eff6d8e2479bb83f19818e1b31e/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b5066eff6d8e2479bb83f19818e1b31e/transformed/jetified-ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b48a257bae1f2241ba2113514bc282fe/transformed/jetified-ui-test-manifest-1.5.4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b48a257bae1f2241ba2113514bc282fe/transformed/jetified-ui-test-manifest-1.5.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.48] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/7c4ef60813a27d2dd6afaa7d9b6fde52/transformed/jetified-hilt-android-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.48] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/7c4ef60813a27d2dd6afaa7d9b6fde52/transformed/jetified-hilt-android-2.48/AndroidManifest.xml:18:3-42
+MERGED from [androidx.fragment:fragment:1.5.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/212bc63511e5e3f1e688faf86f0aa96b/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/212bc63511e5e3f1e688faf86f0aa96b/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/89c4a1c48ef79a3a3baea1cd890cb900/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/89c4a1c48ef79a3a3baea1cd890cb900/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ba98a0bafc674365efc4b71ed6386dd8/transformed/jetified-activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ba98a0bafc674365efc4b71ed6386dd8/transformed/jetified-activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/abf276fdf0ca15561200b3425e3f91a1/transformed/jetified-activity-compose-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/abf276fdf0ca15561200b3425e3f91a1/transformed/jetified-activity-compose-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d0710e596ba2d7be4415ddf80ba6af33/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d0710e596ba2d7be4415ddf80ba6af33/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d9cc4f6a4a67fe19343070468f95065e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d9cc4f6a4a67fe19343070468f95065e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/214d760938be048d1bf49a70a71b2d94/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/214d760938be048d1bf49a70a71b2d94/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/a4aca6b974dce6ea6e6ad3bdc30788de/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/a4aca6b974dce6ea6e6ad3bdc30788de/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/df60e8bc4d05721caae488353dc2ef38/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/df60e8bc4d05721caae488353dc2ef38/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/3469f94258884c5eebf6d39be8f107dc/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/3469f94258884c5eebf6d39be8f107dc/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/a9e1e574b2bc77d3d275c5a806987175/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/a9e1e574b2bc77d3d275c5a806987175/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/4a0488e6eaf2467cf72e3103ea9ed263/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/4a0488e6eaf2467cf72e3103ea9ed263/transformed/jetified-savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/227bce5f26ebfc119e82ebef95abe27d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/227bce5f26ebfc119e82ebef95abe27d/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ddd1c405c10ed318810eb73403dbb337/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ddd1c405c10ed318810eb73403dbb337/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/fb7b33ea09f1e4ee9cb6503dc7cf738a/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/fb7b33ea09f1e4ee9cb6503dc7cf738a/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/28cb1e0a47b00f2668745c28d110b4e8/transformed/jetified-lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/28cb1e0a47b00f2668745c28d110b4e8/transformed/jetified-lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d572ac209dc6ed013e958ffe83b628e9/transformed/jetified-lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d572ac209dc6ed013e958ffe83b628e9/transformed/jetified-lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5943927be3f38cccfa3996a81f43bfe1/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5943927be3f38cccfa3996a81f43bfe1/transformed/jetified-ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ea9b1a15928cf298769b893095f7cb11/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ea9b1a15928cf298769b893095f7cb11/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/80b4f0561c72e6f86d601ef5adddb203/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/80b4f0561c72e6f86d601ef5adddb203/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d5df6b101fff2617f66a17e7c44a87a3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/d5df6b101fff2617f66a17e7c44a87a3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c902bcaeb39dfac858ed92c61a9779ca/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c902bcaeb39dfac858ed92c61a9779ca/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/385578076e2ce662079c6343faaf1ee5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/385578076e2ce662079c6343faaf1ee5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/aab78f797bfe2779759236c7b9564f61/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/aab78f797bfe2779759236c7b9564f61/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/329f9034cb3ad538543e61912405171b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/329f9034cb3ad538543e61912405171b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ea4374389b3464a7c1946cef32c6465a/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ea4374389b3464a7c1946cef32c6465a/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1d7d68765781ca0a62960b836b23e0cb/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/1d7d68765781ca0a62960b836b23e0cb/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/37bca4bdb89249d56409fa284c50f716/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/37bca4bdb89249d56409fa284c50f716/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/7c0e896e7d9b1a26837db6280b7c3e86/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/7c0e896e7d9b1a26837db6280b7c3e86/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/65534c840f2f1fe4d9a7b23a07ccd1b2/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/65534c840f2f1fe4d9a7b23a07ccd1b2/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/2b933ded80519efdba1027fa2b2b3c5a/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/2b933ded80519efdba1027fa2b2b3c5a/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/501f6f189060a72cb1165391f9b7788b/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/501f6f189060a72cb1165391f9b7788b/transformed/jetified-runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/28d6918987fe41d0fe6e19c041d59469/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/28d6918987fe41d0fe6e19c041d59469/transformed/jetified-runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/f3be5a47fcd69fef73b647927ca72641/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/f3be5a47fcd69fef73b647927ca72641/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ce2bce9e03732f412a40b129a90e1dd0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/ce2bce9e03732f412a40b129a90e1dd0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/e504378cfbe8dcdde67e709bf353e318/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/e504378cfbe8dcdde67e709bf353e318/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/85dbe6b020b0f804ba9077d12e34d952/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/85dbe6b020b0f804ba9077d12e34d952/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5d4e0955f7506f596ac777fe2453121b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5d4e0955f7506f596ac777fe2453121b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b907276f5ad5bd7a704d850c6c7ebbeb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b907276f5ad5bd7a704d850c6c7ebbeb/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0a72e3d017909a927aa8f581f72be844/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0a72e3d017909a927aa8f581f72be844/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/041e2f8239c472df300aec3af14e8fe2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/041e2f8239c472df300aec3af14e8fe2/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/533340fd3e060645ab221db3551efd92/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/533340fd3e060645ab221db3551efd92/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/959292028db5a9c4930d9c30526eea8c/transformed/jetified-dagger-lint-aar-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/959292028db5a9c4930d9c30526eea8c/transformed/jetified-dagger-lint-aar-2.48/AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/tvlauncher/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8c8f20fad346ebce1ea5040a670e5749/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8c8f20fad346ebce1ea5040a670e5749/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/8c8f20fad346ebce1ea5040a670e5749/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b48a257bae1f2241ba2113514bc282fe/transformed/jetified-ui-test-manifest-1.5.4/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b48a257bae1f2241ba2113514bc282fe/transformed/jetified-ui-test-manifest-1.5.4/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/b48a257bae1f2241ba2113514bc282fe/transformed/jetified-ui-test-manifest-1.5.4/AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/214d760938be048d1bf49a70a71b2d94/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/214d760938be048d1bf49a70a71b2d94/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5d4e0955f7506f596ac777fe2453121b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/5d4e0955f7506f596ac777fe2453121b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/515c0e8a2ab5a701efe684425d77a627/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/214d760938be048d1bf49a70a71b2d94/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/214d760938be048d1bf49a70a71b2d94/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/214d760938be048d1bf49a70a71b2d94/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.tvlauncher.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.tvlauncher.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/0f169ede43ee5c77e0c4f1a0aa18dc2e/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /storage/emulated/0/Android/data/com.androidharness.app/files/workspace/.gradle/caches/transforms-3/c1d6a9bdd29434b554286e2ab350135e/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
