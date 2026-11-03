@@ -1,6 +1,8 @@
 package com.tvlauncher.app.ui.components
 
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyRow
+import androidx.compose.foundation.lazy.items
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -22,7 +24,7 @@ fun FavoritesSection(favorites: List<AppInfo>, onAppClick: (AppInfo) -> Unit) {
             style = MaterialTheme.typography.titleMedium,
             modifier = Modifier.padding(bottom = 8.dp)
         )
-        androidx.compose.foundation.lazy.LazyRow(
+        LazyRow(
             horizontalArrangement = Arrangement.spacedBy(16.dp)
         ) {
             items(favorites) { app ->

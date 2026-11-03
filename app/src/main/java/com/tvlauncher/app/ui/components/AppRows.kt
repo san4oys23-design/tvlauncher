@@ -1,11 +1,18 @@
 package com.tvlauncher.app.ui.components
 
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyRow
+import androidx.compose.foundation.lazy.items
+import androidx.compose.material3.Card
+import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.viewinterop.AndroidView
+import android.widget.ImageView
 import com.tvlauncher.app.viewmodel.AppInfo
 
 @Composable
@@ -41,7 +48,7 @@ fun AppRows(
 
 @Composable
 fun LazyAppRow(items: List<AppInfo>, onAppClick: (AppInfo) -> Unit) {
-    androidx.compose.foundation.lazy.LazyRow(
+    LazyRow(
         horizontalArrangement = Arrangement.spacedBy(16.dp)
     ) {
         items(items) { app ->
@@ -50,20 +57,21 @@ fun LazyAppRow(items: List<AppInfo>, onAppClick: (AppInfo) -> Unit) {
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AppCard(app: AppInfo, onClick: () -> Unit) {
-    androidx.compose.material3.Card(
+    Card(
         onClick = onClick,
         modifier = Modifier.size(120.dp, 100.dp)
     ) {
         Column(
             modifier = Modifier.fillMaxSize(),
-            horizontalAlignment = androidx.compose.ui.Alignment.CenterHorizontally,
+            horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center
         ) {
-            androidx.compose.ui.viewinterop.AndroidView(
+            AndroidView(
                 factory = { context ->
-                    android.widget.ImageView(context).apply {
+                    ImageView(context).apply {
                         setImageDrawable(app.icon)
                     }
                 },
